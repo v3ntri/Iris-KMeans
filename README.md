@@ -1,4 +1,3 @@
-# Iris-KMeans
 # People
 The people involved in the project are:
 
@@ -6,5 +5,7 @@ The people involved in the project are:
   -Marianna Mileo ()
   -Federico Marra (https://github.com/Marra-Federico)
   -Frank Dunkan ()
+
+# Description
 
 This project aim to a classification of various classes of plants using the K-Means method
