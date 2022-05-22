@@ -1,5 +1,5 @@
 # Iris-KMeans
--People
+#People
 The people involved in the project are:
 
   -Riccardo Ventrici (https://github.com/v3ntri)
