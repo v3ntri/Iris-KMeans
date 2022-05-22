@@ -1,10 +1,9 @@
 # People
 The people involved in the project are:
-
-  -Riccardo Ventrici (https://github.com/v3ntri)
-  -Marianna Mileo ()
-  -Federico Marra (https://github.com/Marra-Federico)
-  -Frank Dunkan ()
+  * Riccardo Ventrici (https://github.com/v3ntri)
+  * Marianna Mileo ()
+  * Federico Marra (https://github.com/Marra-Federico)
+  * Frank Dunkan ()
 
 # Description
 
