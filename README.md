@@ -3,7 +3,7 @@ The people involved in the project are:
   * Riccardo Ventrici (https://github.com/v3ntri)
   * Marianna Mileo (https://github.com/merymylo)
   * Federico Marra (https://github.com/Marra-Federico)
-  * Frank Dunkan ()
+  * Frank Dunkan (https://github.com/Fiokkodineve)
 
 # Description
 
