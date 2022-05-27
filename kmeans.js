@@ -186,7 +186,9 @@ function kmean_step(points, centroid)
     if( checkCentroid(centroid_old, centroid) )
     {
         clearInterval(interval);//if the old position of each centroid is the same as the current centroids's position we stop to update them
+        document.getElementById("commento").innerHTML= "L'algoritmo è terminato!";
         draw(points,centroid);
+        
     }
     for(var i = 0 ; i < 3 ; i++)
     {
